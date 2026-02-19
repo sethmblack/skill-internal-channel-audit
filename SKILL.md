@@ -4,7 +4,7 @@ description: Document and evaluate internal reporting attempts before external d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4247
+  version: 1.0.4248
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
