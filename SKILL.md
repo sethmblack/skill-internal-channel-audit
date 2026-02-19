@@ -3,8 +3,9 @@ name: internal-channel-audit
 description: Document and evaluate internal reporting attempts before external disclosure, establishing good faith and demonstrating futility of internal channels.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4247
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - internal-channel-audit
